@@ -30,4 +30,4 @@ values according to your needs. Hopefully, now you are ready to run it.
 
 The code is under MIT license. See [LICENSE](LICENSE) for more information.
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHexawolf%2FGoMQTT.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHexawolf%2FgDMQT?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHexawolf%2FgDMQT.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHexawolf%2FgDMQT?ref=badge_large)
