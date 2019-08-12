@@ -48,7 +48,7 @@ func LoadConfig(path string) error {
 }
 
 func main() {
-	fmt.Println("GoMQTT Broker")
+	fmt.Println("gDMQT Broker")
 	fmt.Println("Copyright © 2019 Vladyslav Yamkovyi (Hexawolf)")
 	fmt.Println()
 
