@@ -298,7 +298,7 @@ func readString(b io.Reader) (buf []byte, err error) {
 
 func readTopic(b io.Reader) (buf []byte, err error) {
 	buf, err = readString(b)
-	if buf[0] != '/' {
+	if err == nil && buf[0] != '/' {
 		err = errors.New("topic name must start with a slash")
 	}
 	return
